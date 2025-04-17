@@ -5,9 +5,11 @@
 - **GitHub:** [https://github.com/GreenTreePythons]
 ---
 ## 회사경력
-- 2017.07 ~ 2021.07 t3 오디션 라이브팀(PC)
-  - [https://github.com/GreenTreePythons/GreenTreePythons/blob/main/t3/t3Resume.md]  
-- 2021.08 ~ 2025.03 SmartStudyGames 라테시아 신규개발팀(Mobile)
+- 2017.07 ~ 2021.07 t3 오디션 라이브팀 (PC)
+  - [https://github.com/GreenTreePythons/GreenTreePythons/blob/main/t3/t3Resume.md]
+
+        
+- 2021.08 ~ 2025.03 SmartStudyGames 라테시아 신규개발팀 (Mobile)
   - [https://github.com/GreenTreePythons/GreenTreePythons/blob/main/ssg/ssgResume.md]
 ---
 ## 기술스택
