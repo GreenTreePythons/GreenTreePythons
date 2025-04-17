@@ -13,6 +13,8 @@
 - **Programming Languages:** C#, C++
 - **Game Engines:** Unity, Unreal Engine
 - **Tools & Frameworks:** Git, Jira, Visual Studio, Unreal Blueprint, Shader Graph
-- **Development Areas:** Game client optimization, UI/UX integration, multiplayer network implementation
-- **Others:** Agile methodology, team collaboration, problem-solving
+- **오픈소스**
+  -- [https://github.com/mob-sakai/UIEffect](https://github.com/mob-sakai/UIEffect)
+  -- [https://github.com/mob-sakai/UIEffect](https://github.com/mob-sakai/SoftMaskForUGUI)
+  -- [https://github.com/mob-sakai/UIEffect](https://github.com/Cysharp/MagicOnion)
 ---
