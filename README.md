@@ -15,7 +15,7 @@
 - **Game Engines:** Unity, Unreal Engine
 - **Tools:** Visual Studio, Rider, Git, Jenkins, SVN, Sourcetree, Jira, Docker
 - **Frameworks:** ASP.NET Core, Entity Framework
-- **Database Systems:** SQLite
+- **Database System:** SQLite
 - **Network:** MagicOnion(gRPC), MessagePack
 ---
 ## 개인 개발 프로젝트
