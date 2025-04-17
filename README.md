@@ -16,7 +16,7 @@
 - **Tools:** Visual Studio, Rider, Git, Jenkins, SVN, Sourcetree, Jira, Docker
 - **Frameworks:** ASP.NET Core, Entity Framework
 - **Database Systems:** SQLite
-- **Network:** MagicOnion(gRPC)
+- **Network:** MagicOnion(gRPC), MessagePack
 ---
 ## 개인 개발 프로젝트
   - 2025
