@@ -20,13 +20,19 @@
 - **Database System:** SQLite
 - **Network:** MagicOnion(gRPC), MessagePack
 ---
-## 개인 개발 프로젝트
-  - 2025
+## 개인개발 프로젝트
+  - 2025 SimpleIdleGame
+      - [https://github.com/GreenTreePythons/SimpleIdleGame]
+   
   - 2016 TheRoad
       - [https://blog.naver.com/ssung1301/220808155545]
+   
   - 2015 캠핑쿡
       - [https://blog.naver.com/ssung1301/220808153408]
+   
   - 2011 빛팡
       - [https://blog.naver.com/ssung1301/220808150145]
+   
   - 2010 영극
       - [https://blog.naver.com/ssung1301/220808148676]
+        
