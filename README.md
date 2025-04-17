@@ -10,7 +10,7 @@
 
         
 - 2021.08 ~ 2025.03 SmartStudyGames 라테시아 신규개발팀 (Mobile)
-  - [https://github.com/GreenTreePythons/GreenTreePythons/blob/main/ssg/ssgResume.md]
+  - [https://github.com/GreenTreePythons/GreenTreePythons/blob/main/210817~250331_ssg/ssgResume.md]
 ---
 ## 기술스택
 - **Programming Languages:** C++, C#
