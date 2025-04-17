@@ -1,4 +1,4 @@
-# [이성노(LeeSungro)] - Game Client Developer
+# 이성노(LeeSungro) - Game Client Developer
 
 ## 소개
 - **Email:** [ssung1301@gmail.com]
