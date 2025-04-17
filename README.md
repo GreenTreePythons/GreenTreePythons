@@ -9,12 +9,12 @@
   - https://github.com/GreenTreePythons/GreenTreePythons/blob/main/t3Resume.md
 - 2021.08 ~ 2025.03 SmartStudyGames 프로젝트L 신규개발팀
 ---
-## Skills
-- **Programming Languages:** C#, C++
+## 기술스택
+- **Programming Languages:** C++, C#
 - **Game Engines:** Unity, Unreal Engine
-- **Tools & Frameworks:** Git, Jira, Visual Studio, Unreal Blueprint, Shader Graph
+- **Tools & Frameworks:** Git, Jira, Visual Studio
 - **오픈소스**
-  -- [https://github.com/mob-sakai/UIEffect](https://github.com/mob-sakai/UIEffect)
-  -- [https://github.com/mob-sakai/UIEffect](https://github.com/mob-sakai/SoftMaskForUGUI)
-  -- [https://github.com/mob-sakai/UIEffect](https://github.com/Cysharp/MagicOnion)
+  - [https://github.com/mob-sakai/UIEffect](https://github.com/mob-sakai/UIEffect)
+  - [https://github.com/mob-sakai/UIEffect](https://github.com/mob-sakai/SoftMaskForUGUI)
+  - [https://github.com/mob-sakai/UIEffect](https://github.com/Cysharp/MagicOnion)
 ---
