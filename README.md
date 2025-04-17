@@ -2,13 +2,13 @@
 
 ## 소개
 - **Email:** [ssung1301@gmail.com]
-- **GitHub:** [https://github.com/GreenTreePythons](https://github.com/GreenTreePythons)
+- **GitHub:** [https://github.com/GreenTreePythons]
 ---
 ## 회사경력
 - 2017.07 ~ 2021.07 t3 오디션 라이브팀
-  - https://github.com/GreenTreePythons/GreenTreePythons/blob/main/t3/t3Resume.md
+  - [https://github.com/GreenTreePythons/GreenTreePythons/blob/main/t3/t3Resume.md]
 - 2021.08 ~ 2025.03 SmartStudyGames 프로젝트L 신규개발팀
-  - https://github.com/GreenTreePythons/GreenTreePythons/blob/main/ssg/ssgResume.md
+  - [https://github.com/GreenTreePythons/GreenTreePythons/blob/main/ssg/ssgResume.md]
 ---
 ## 기술스택
 - **Programming Languages:** C++, C#
@@ -21,10 +21,10 @@
 ## 개인 개발 프로젝트
   - 2025
   - 2016 TheRoad
-      - https://blog.naver.com/ssung1301/220808155545
+      - [https://blog.naver.com/ssung1301/220808155545]
   - 2015 캠핑쿡
-      - https://blog.naver.com/ssung1301/220808153408
+      - [https://blog.naver.com/ssung1301/220808153408]
   - 2011 빛팡
-      - https://blog.naver.com/ssung1301/220808150145
+      - [https://blog.naver.com/ssung1301/220808150145]
   - 2010 영극
-      - https://blog.naver.com/ssung1301/220808148676
+      - [https://blog.naver.com/ssung1301/220808148676]
