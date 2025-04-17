@@ -14,7 +14,7 @@
 - **Game Engines:** Unity, Unreal Engine
 - **Tools & Frameworks:** Git, Jira, Visual Studio
 - **오픈소스**
-  - [https://github.com/mob-sakai/UIEffect](https://github.com/mob-sakai/UIEffect)
-  - [https://github.com/mob-sakai/UIEffect](https://github.com/mob-sakai/SoftMaskForUGUI)
-  - [https://github.com/mob-sakai/UIEffect](https://github.com/Cysharp/MagicOnion)
+  - https://github.com/mob-sakai/UIEffect
+  - https://github.com/Cysharp/MagicOnion
+  - https://github.com/MessagePack-CSharp/MessagePack-CSharp
 ---
