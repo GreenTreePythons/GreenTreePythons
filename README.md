@@ -21,18 +21,18 @@
 - **Network:** MagicOnion(gRPC), MessagePack
 ---
 ## 개인개발 프로젝트
-  - 2025 SimpleIdleGame
+  - 2025 SimpleIdleGame(Unreal)
       - [https://github.com/GreenTreePythons/SimpleIdleGame]
    
-  - 2016 TheRoad
+  - 2016 TheRoad(Unity)
       - [https://blog.naver.com/ssung1301/220808155545]
    
-  - 2015 캠핑쿡
+  - 2015 캠핑쿡(Unity)
       - [https://blog.naver.com/ssung1301/220808153408]
    
-  - 2011 빛팡
+  - 2011 빛팡(Directx3D)
       - [https://blog.naver.com/ssung1301/220808150145]
    
-  - 2010 영극
+  - 2010 영극(Directx3D)
       - [https://blog.naver.com/ssung1301/220808148676]
         
