@@ -12,7 +12,7 @@
 ---
 ## 기술스택
 - **Programming Languages:** C++, C#
-- **Game Engines:** Unity, Unreal Engine
+- **Game Engines:** Unity(6000.0.34f1), Unreal Engine(5.5)
 - **Tools:** Visual Studio, Rider, Git, Jenkins, SVN, Sourcetree, Jira, Docker
 - **Frameworks:** ASP.NET Core, Entity Framework
 - **Database System:** SQLite
