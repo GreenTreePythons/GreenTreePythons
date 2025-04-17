@@ -8,6 +8,7 @@
 - 2017.07 ~ 2021.07 t3 오디션 라이브팀
   - https://github.com/GreenTreePythons/GreenTreePythons/blob/main/t3/t3Resume.md
 - 2021.08 ~ 2025.03 SmartStudyGames 프로젝트L 신규개발팀
+  - https://github.com/GreenTreePythons/GreenTreePythons/blob/main/ssg/ssgResume.md
 ---
 ## 기술스택
 - **Programming Languages:** C++, C#
