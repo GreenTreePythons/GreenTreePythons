@@ -12,9 +12,7 @@
 ## 기술스택
 - **Programming Languages:** C++, C#
 - **Game Engines:** Unity, Unreal Engine
-- **Tools & Frameworks:** Git, Jira, Visual Studio
-- **오픈소스**
-  - https://github.com/mob-sakai/UIEffect
-  - https://github.com/Cysharp/MagicOnion
-  - https://github.com/MessagePack-CSharp/MessagePack-CSharp
----
+- **Tools:** Visual Studio, Rider, Git, Jenkins, SVN, Sourcetree, Jira, Docker
+- **Frameworks:** ASP.NET Core, Entity Framework
+- **Database Systems:** SQLite
+- **Network:** MagicOnion(gRPC)
