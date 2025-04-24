@@ -15,7 +15,7 @@
 ## 기술스택
 - **Programming Languages:** C++, C#
 - **Game Engines:** Unity(6000.0.34f1), Unreal Engine(5.5)
-- **Tools:** Visual Studio, Rider, Git, Jenkins, SVN, Sourcetree, Jira, Docker, Directx3D
+- **Tools:** Visual Studio, Visual Studio Code, Rider, Git, Jenkins, SVN, Sourcetree, Jira, Docker, Directx3D
 - **Frameworks:** ASP.NET Core, Entity Framework
 - **Database System:** SQLite
 - **Network:** MagicOnion(gRPC), MessagePack
