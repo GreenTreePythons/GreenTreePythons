@@ -2,6 +2,7 @@
 - **플랫폼**: Mobile
 - **사용 언어**: C#
 - **엔진**: Unity6
+- **에디터**: Visual Studio Code, Rider
 - **소스 관리 툴**: Git, Sourcetree
 - **CI/CD 툴**: GitLab Runner
 - **DB 관련**: SQLite, Entity Framework
