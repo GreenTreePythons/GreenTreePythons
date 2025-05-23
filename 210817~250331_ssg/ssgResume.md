@@ -7,6 +7,7 @@
 - **CI/CD 툴**: GitLab Runner
 - **DB 관련**: SQLite, Entity Framework
 - **Network 관련**: MessagePack, MagicOnion (gRPC)
+- **서드파티**: TextMeshPro, UIEffect, MPImage, BlackBox
 
 신규 개발 **라테시아** 팀에서 클라이언트 및 서버 개발을 담당하였고, 2024년부터는 **프로그래밍 파트 리더**라는 포지션에서 파트의 일감 및 일정 관리도 병행하며 진행했습니다.
 
