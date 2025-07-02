@@ -21,10 +21,10 @@
 - **Network:** MagicOnion(gRPC), MessagePack
 ---
 ## 개인개발 프로젝트
-  - 2025 SimpleARPG (**Unity**) (ing)
+  - 2025 SimpleARPG (**Unity**) (진행중)
       - [https://github.com/GreenTreePythons/SimpleARPG/tree/main/SimpleARPG]
    
-  - 2025 SimpleIdleGame (**Unreal**) (ing)
+  - 2025 SimpleIdleGame (**Unreal**)
       - [https://github.com/GreenTreePythons/SimpleIdleGame]
    
   - 2016 TheRoad (**Unity**)
