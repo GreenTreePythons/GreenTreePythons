@@ -6,6 +6,7 @@
 - IDE : Visual Studio 2008
 - 소스 관리 툴 : SVN
 - CI/CD : Jenkins
+
   
 ### Unity 컨버팅 작업
 - 플랫폼 : PC
@@ -13,6 +14,7 @@
 - 엔진 : Unity
 - IDE : Visual Studio 2015
 - 소스 관리 툴 : SVN
+
   
 ## 경력사항
 - DirectX3D 기반 Custom Game Engine으로 제작된 오디션 라이브팀에서 국내·해외 라이브 서비스 클라이언트 개발 담당
