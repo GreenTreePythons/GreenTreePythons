@@ -2,17 +2,24 @@
 ### 라이브
 - 플랫폼 : PC
 - 언어 : C++
-- 엔진 : Directx3D 기반 자체엔진
-- 에디터 : Visual Studio 2008
+- 엔진 : Directx3D 기반 Custom GameEngine 엔진
+- IDE : Visual Studio 2008
 - 소스 관리 툴 : SVN
 - CI/CD : Jenkins
+  
 ### Unity 컨버팅 작업
 - 플랫폼 : PC
 - 언어 : C#
 - 엔진 : Unity
-- 에디터 : Visual Studio 2015
+- IDE : Visual Studio 2015
 - 소스 관리 툴 : SVN
+  
 ## 경력 사항
+- DirectX3D 기반 Custom Game Engine으로 제작된 오디션 라이브팀에서 국내·해외 라이브 서비스 클라이언트 개발 담당
+- 서비스 안정성을 위한 이슈 코드 수정 및 리팩토링 작업 수행
+- 2017~2021 국내·해외 라이브 업데이트 일정에 따른 신규 콘텐츠 개발 및 기존 코드 유지보수
+- 2020~2021 기존 오디션을 유니티 엔진으로 프로토타입 제작하는 프로젝트 참여
+  
 ### 2017년
 - **국내 오디션 신규 콘텐츠 작업**
   - 미니게임 상품 관련 상점 콘텐츠 구현
