@@ -9,7 +9,7 @@
 - **Network 관련**: MessagePack, MagicOnion (gRPC)
 - **서드파티**: TextMeshPro, UIEffect, MPImage, BlackBox
 
-## 
+## 경력사항
 - 신규 모바일 수집형 RPG 라테시아 프로젝트의 클라이언트 및 서버 개발 담당
 - 신규 컨텐츠 개발을 위한 클라이언트, 서버 기능 구현, 컨텐츠 관련 DB 작업
 - 컨텐츠 제작 지원을 위한 전용 툴 개발 및 지원
