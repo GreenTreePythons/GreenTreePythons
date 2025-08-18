@@ -15,10 +15,12 @@
 ## 기술스택
 - **Programming Languages:** C++, C#
 - **Game Engines:** Unity(6000.0.34f1), Unreal Engine(5.5)
-- **Tools:** Visual Studio, Visual Studio Code, Rider, Git, Jenkins, SVN, Sourcetree, Jira, Docker, Directx3D
+- **IDEs:** Visual Studio, Visual Studio Code, Rider
+- **Tools:** Git, Jenkins, SVN, Sourcetree, Jira, Docker
+- **Graphics:** DirectX 3D
 - **Frameworks:** ASP.NET Core, Entity Framework
 - **Database System:** SQLite
-- **Network:** MagicOnion(gRPC), MessagePack
+- **Network / Serialization:** MagicOnion(gRPC), MessagePack
 ---
 ## 개인개발 프로젝트
   - 2025 SimpleARPG (**Unity**) (진행중)
