@@ -13,20 +13,20 @@
   - [https://github.com/GreenTreePythons/GreenTreePythons/blob/main/210817~250331_ssg/ssgResume.md]
 ---
 ## 기술스택
-- **Programming Languages:** C++, C#
-- **Game Engines:** Unity(6000.0.34f1), Unreal Engine(5.5)
-- **IDEs:** Visual Studio, Visual Studio Code, Rider
-- **Tools:** Git, Jenkins, SVN, Sourcetree, Jira, Docker
-- **Graphics:** DirectX 3D
-- **Frameworks:** ASP.NET Core, Entity Framework
+- **Programming Language:** C++, C#
+- **Game Engine:** Unity(6000.0.34f1), Unreal Engine(5.5)
+- **IDE:** Visual Studio, Visual Studio Code, Rider
+- **Tool:** Git, Jenkins, SVN, Sourcetree, Jira, Docker
+- **Graphic:** DirectX 3D
+- **Framework:** ASP.NET Core, Entity Framework
 - **Database System:** SQLite
 - **Network / Serialization:** MagicOnion(gRPC), MessagePack
 ---
 ## 개인개발 프로젝트
-  - 2025 SimpleARPG (**Unity**) (진행중)
+  - 2025 SimpleARPG (**Unity**) (ing)
       - [https://github.com/GreenTreePythons/SimpleARPG/tree/main/SimpleARPG]
    
-  - 2025 SimpleIdleGame (**Unreal**)
+  - 2025 SimpleIdleGame (**Unreal**) (hold)
       - [https://github.com/GreenTreePythons/SimpleIdleGame]
    
   - 2016 TheRoad (**Unity**)
