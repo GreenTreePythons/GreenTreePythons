@@ -24,7 +24,7 @@
 ---
 ## 개인개발 프로젝트
   - 2025 SimpleARPG (**Unity**) (ing)
-      - [https://github.com/GreenTreePythons/SimpleARPG/tree/main/SimpleARPG]
+      - [[https://github.com/GreenTreePythons/SimpleARPG/tree/main/SimpleARPG]](https://github.com/GreenTreePythons/SimpleARPG/blob/main/README.md)
    
   - 2025 SimpleIdleGame (**Unreal**) (hold)
       - [https://github.com/GreenTreePythons/SimpleIdleGame]
